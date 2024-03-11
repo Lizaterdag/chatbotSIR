@@ -5,7 +5,7 @@ import os
 import time
 
 # Set the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "our-api-key"
 
 # Define the name of the bot
 name = 'BOT'
