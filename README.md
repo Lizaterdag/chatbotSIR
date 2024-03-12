@@ -10,4 +10,4 @@ Run the app locally:
 
 Check in browser for the chatbot
 
-`localhost:5000`
+`localhost:3000`
